@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "379832846545",
+    "firebase_url": "https://sanja-1bf54.firebaseio.com",
+    "project_id": "sanja-1bf54",
+    "storage_bucket": "sanja-1bf54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379832846545:android:b7a2e745ce1cee40665df0",
+        "android_client_info": {
+          "package_name": "com.example.maps_example2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379832846545-csevqvrjd3c209fer4v66oar6q26fjdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2BO-KjXhXhZkZ5YtO1aVRu5aF1KuSFUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379832846545-csevqvrjd3c209fer4v66oar6q26fjdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
